@@ -1,0 +1,25 @@
+textarea {
+    min-height: 400px;
+}
+
+.email {
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 2%;
+    font-weight: bold;
+    margin-top: 2%;
+}
+
+.email:hover {
+    cursor: pointer;
+}
+
+.time {
+    color: gray;
+}
+
+span {
+    font-weight: bold;
+}
